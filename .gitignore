@@ -1,2 +1,13 @@
 # Created by .ignore support plugin (hsz.mobi)
-.gradle/
+.gradle/*
+build/classes/main/com/example/
+build/dependency-cache/
+build/sources/api/
+build/sources/test/
+build/tmp/compileJava/
+build/tmp/reobfJar/
+run/logs/2016-12-26-1.log.gz
+run/logs/fml-client-1.log
+run/mods/
+run/resourcepacks/
+src/main/java/com/example/
