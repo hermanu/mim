@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mim",
+  "name": "Manu's Inventory Management",
+  "description": "Test Mod",
+  "version": "1.0",
+  "mcversion": "1.11",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

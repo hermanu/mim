@@ -1,0 +1,34 @@
+Symbol range map extraction starting
+Processing 1 files
+startProcessing "com/manu/mim/Mim.java" md5: 53a7613d88a6c48fe2a1b328059e1506
+@|com/manu/mim/Mim.java|8|20|com.manu.mim|package|com.manu.mim|(file)
+Class Start: com.manu.mim.Mim
+   @|com/manu/mim/Mim.java|223|226|Mod|class|net.minecraftforge.fml.common.Mod
+   @|com/manu/mim/Mim.java|227|232|modid|method|net.minecraftforge.fml.common.Mod|modid|()Ljava/lang/String;
+   @|com/manu/mim/Mim.java|235|238|Mim|class|com.manu.mim.Mim
+   @|com/manu/mim/Mim.java|239|244|MODID|field|com.manu.mim.Mim|MODID
+   @|com/manu/mim/Mim.java|246|253|version|method|net.minecraftforge.fml.common.Mod|version|()Ljava/lang/String;
+   @|com/manu/mim/Mim.java|256|259|Mim|class|com.manu.mim.Mim
+   @|com/manu/mim/Mim.java|260|267|VERSION|field|com.manu.mim.Mim|VERSION
+   @|com/manu/mim/Mim.java|282|285|Mim|class|com.manu.mim.Mim
+   @|com/manu/mim/Mim.java|312|318|String|class|java.lang.String
+   @|com/manu/mim/Mim.java|312|318|String|class|java.lang.String
+   @|com/manu/mim/Mim.java|319|324|MODID|field|com.manu.mim.Mim|MODID|
+   @|com/manu/mim/Mim.java|365|371|String|class|java.lang.String
+   @|com/manu/mim/Mim.java|365|371|String|class|java.lang.String
+   @|com/manu/mim/Mim.java|372|379|VERSION|field|com.manu.mim.Mim|VERSION|
+   Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com/manu/mim/Mim.java|456|461|event|param|com.manu.mim.Mim|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|com/manu/mim/Mim.java|399|411|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|com/manu/mim/Mim.java|428|432|init|method|com.manu.mim.Mim|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com/manu/mim/Mim.java|433|455|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
+      @|com/manu/mim/Mim.java|506|512|System|class|java.lang.System
+      @|com/manu/mim/Mim.java|513|516|out|field|java.lang.System|out
+      @|com/manu/mim/Mim.java|517|524|println|method|java.io.PrintStream|println|(Ljava/lang/String;)V
+      @|com/manu/mim/Mim.java|542|548|Blocks|class|net.minecraft.init.Blocks
+      @|com/manu/mim/Mim.java|549|553|DIRT|field|net.minecraft.init.Blocks|DIRT
+      @|com/manu/mim/Mim.java|554|572|getUnlocalizedName|method|net.minecraft.block.Block|getUnlocalizedName|()Ljava/lang/String;
+   Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+Class End  : com.manu.mim.Mim
+endProcessing "com/manu/mim/Mim.java"
+
