@@ -1,5 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
-.gradle/*
+.gradle/
 build/classes/main/com/example/
 build/dependency-cache/
 build/sources/api/
